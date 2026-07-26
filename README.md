@@ -18,7 +18,7 @@ A comprehensive e-commerce platform with an admin dashboard for managing product
 - [Contributing](#contributing)
 - [License](#license)
 
-## ✨ Features
+## ✨ Features.
 
 ### Customer Features
 
