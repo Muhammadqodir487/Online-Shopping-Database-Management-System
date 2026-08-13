@@ -20,7 +20,7 @@ A comprehensive e-commerce platform with an admin dashboard for managing product
 
 ## ✨ Features.
 
-### Customer Features
+### Customer Features.
 
 - **User Authentication**
   - User registration with email validation
