@@ -135,7 +135,7 @@ define('DB_PASSWORD', 'your_password');
 define('DB_DATABASE', 'ecommerece');
 ```
 
-### 5. Deploy Files
+### 5. Deploy Files.
 
 - Copy all project files to your web root directory (htdocs for XAMPP)
 - Set proper file permissions:
