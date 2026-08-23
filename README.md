@@ -50,7 +50,7 @@ A comprehensive e-commerce platform with an admin dashboard for managing product
   - Email subscription management
   - Marketing communications
 
-### Admin Features
+### Admin Features.
 
 - **Dashboard**
   - Sales overview
